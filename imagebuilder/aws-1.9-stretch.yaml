@@ -1,5 +1,5 @@
 Cloud: aws
-TemplatePath: templates/1.9-jessie.yml
+TemplatePath: templates/1.9-stretch.yml
 Tags:
   k8s.io/kernel: "4.9"
   k8s.io/version: "1.9"
